@@ -27,8 +27,10 @@ mistune==3.0.2
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
+numpy
 packaging==24.1
 pandocfilters==1.5.1
+pandas
 parso==0.8.4
 pexpect==4.9.0
 pickleshare==0.7.5
@@ -44,6 +46,7 @@ referencing==0.35.1
 requests==2.32.3
 rpds-py==0.20.0
 six==1.16.0
+seaborn
 soupsieve==2.6
 stack-data==0.6.3
 tinycss2==1.4.0
